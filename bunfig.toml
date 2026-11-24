@@ -1,0 +1,3 @@
+# The dev server (`bun ./index.html`) runs Tailwind through this plugin.
+[serve.static]
+plugins = ["bun-plugin-tailwind"]

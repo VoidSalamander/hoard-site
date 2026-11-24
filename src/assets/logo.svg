@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 184.00 184.00" width="184.00" height="184.00">
+  <path d="M32 32 L112 12 L172 72 L152 152 L72 172 L12 112 L32 32 Z" fill="#343a40" stroke="#0c8599" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" opacity="1"/>
+  <path d="M152 152 L172 72 L152 52 L132 132 L152 152 Z" fill="#ffd43b" stroke="#ffd43b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" opacity="1"/>
+  <path d="M32 32 L52 52 L32 132 L12 112 L32 32 Z" fill="#0c8599" stroke="#0c8599" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" opacity="1"/>
+  <path d="M32 32 L112 12 L172 72 L152 152" fill="none" stroke="#ffd43b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" opacity="1"/>
+  <path d="M32 32 L52 52 L92 32 L172 72 L112 12 L32 32 Z" fill="#ffd43b" stroke="#ffd43b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" opacity="1"/>
+  <path d="M12 112 L92 152 L132 132 L152 152 L72 172 L12 112 Z" fill="#0c8599" stroke="#0c8599" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" opacity="1"/>
+  <path d="M63.27 72 L85.8 83.27 L74.53 128.33 L52 117.07 L63.27 72 Z" fill="#ffffff" stroke="#ffffff" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" opacity="1"/>
+</svg>

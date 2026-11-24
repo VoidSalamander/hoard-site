@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+/* The App's neutral black (theme-black), plus the logo's teal and gold. */
+@theme {
+  --color-ink: #111111;
+  --color-ink-950: #0a0a0a;
+  --color-ink-900: #111111;
+  --color-ink-800: #1a1a1a;
+  --color-ink-700: #242424;
+  --color-ink-600: #2e2e2e;
+  --color-ink-500: #404040;
+  --color-fg: #ededed;
+  --color-dim: #a8a8a8;
+  --color-muted: #8a8a8a;
+  --color-teal: #0c8599;
+  /* The logo's teal is too dark for text on black; this one reads. */
+  --color-teal-bright: #3bc9db;
+  --color-gold: #ffd43b;
+  --color-slate: #343a40;
+  --color-danger: #ef4444;
+  --color-success: #7fd1ae;
+  --font-sans: "Segoe UI", "Microsoft JhengHei", "PingFang TC", "Noto Sans TC", system-ui, sans-serif;
+  --font-mono: Consolas, "Cascadia Mono", ui-monospace, monospace;
+  --shadow-low: 0 4px 6px -1px rgb(0 0 0 / 0.4), 0 2px 4px -2px rgb(0 0 0 / 0.4);
+  --shadow-mid: 0 20px 25px -5px rgb(0 0 0 / 0.45), 0 8px 10px -6px rgb(0 0 0 / 0.45);
+  --shadow-high: 0 25px 50px -12px rgb(0 0 0 / 0.6);
+}
+
+html {
+  scroll-padding-top: 5rem;
+  -webkit-text-size-adjust: 100%;
+}
+
+html,
+body {
+  background: var(--color-ink);
+  color: var(--color-fg);
+  font-family: var(--font-sans);
+}
+
+::selection {
+  background: rgb(255 212 59 / 0.3);
+}
