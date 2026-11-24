@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "",
-  "pub_date": "2026-11-24T03:37:43.419Z",
+  "version": "0.1.1",
+  "notes": "插件頁可以瀏覽、安裝簽章過的插件；投放區與截圖可以指定作者；側欄頁面樹改版；修正多個側欄與浮層的顯示問題",
+  "pub_date": "2026-11-24T08:32:21.267Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NGR1bUtHUC95ckl6M2t5d0JDRm9JV3Myd21od1hKZkcxbkF6U1BCZ044TWtsd0VmaVNDSG1sUkxxc1g3djBBbExJOVpDc01pSDBURk1KNjJ0bkptK1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDkxNDYyCWZpbGU6aG9hcmRfMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wCmZHVlNvcW9YUjYyR05zY2t0Q081V200eHA4ajJHazFFUWNLNDc3bE1BcUFwUWljc295R3pHR29xU2FhVDBHNUFsalZic3VQZCtYajdIVS95bGxSUkJBPT0K",
-      "url": "https://github.com/VoidSalamander/hoard-releases/releases/download/v0.1.0/hoard_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NGJ3am1nVE5nRU1HL2JKY3ZSNHZJNWRTNS8vMFZYcU1VVHdYS2h1cm1uc0pTd0QxV3RONUUxbFA2NXQyZjJEM1NMUlpGL1pnb2tNNEFIeWRoMmJNT2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTA4OTEyCWZpbGU6aG9hcmRfMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCjZMcXhXRkJwSnZsenNjMDh4NzlhT3pOcFl0Wk1YM3ViR2NXbS9xSjUrTmZjVzRYQVAwSjVNd2ExU3oyRUNMNlpMRlIwdnlUcUl6cXNXa2dFUVJSWkNRPT0K",
+      "url": "https://github.com/VoidSalamander/hoard-releases/releases/download/v0.1.1/hoard_0.1.1_x64-setup.exe"
     }
   }
 }

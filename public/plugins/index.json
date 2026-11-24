@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "appVersion": "0.1.0",
-  "generatedAt": "2026-11-24T03:09:29.355Z",
+  "appVersion": "0.1.1",
+  "generatedAt": "2026-11-24T08:22:47.733Z",
   "plugins": [
     {
       "id": "ai-metadata",
@@ -21,7 +21,7 @@
       "file": "ai-metadata-1.7.1.zip",
       "size": 29143,
       "sha256": "4fd5f6bac9a77e3a53de96b9a67761065a7ff412cd2487b0d113874b9ece13b3",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NFZSdUxJSUpXcGtPVDQyNXNvVW42WlVTU05WYXZXR0JDL3l1U3ZHM3lpZEd0UWZkeUtEQ1VMTUxRTVZhdURCYm9vbHdJR0piN3hGY2EwN2V0Ry8zalEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg5NzY1CWZpbGU6YWktbWV0YWRhdGEtMS43LjEuemlwCnRPbDB4Y1V3cWdEYnlZdTRVYm5UeXpJUFR5b0FzNktHSUxOS1JWN01rcHhwK1Q1Z3JzaXR2NEJGaDlDamRraW1nZ1IrVGhIV3ZkTGNvQ1dEY3krRkFBPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NGVTc25YVStnOEo2aEUxWHl3RldjVnlxeWdXMVR5RUxJVjFWd0p3NG5PSnA4UEt5b1VENDYvcXNuYjRkcUZyaEc2OEMwYlVtZlJ1eGhFd0lZcWlMSWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTA4NTYzCWZpbGU6YWktbWV0YWRhdGEtMS43LjEuemlwCm5EcURDbWNWQlQvTTNhdWdIbHp2YmpGcWI4NUliMkZsQUxHU2p4UjhCMGs2VzJrSjVML3RGaGQydkxyVlhCM1U2MC80czdXcGExQzRBWmlZQmZBNkJ3PT0K"
     },
     {
       "id": "aseprite",
@@ -41,7 +41,7 @@
       "file": "aseprite-1.3.0.zip",
       "size": 28458,
       "sha256": "ffc92083d49844ee7f081d64c1c38dd441cdf7d3c824e27b1556fd9ce3ab3fd9",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NFpFWllNWCt4WFMyNW5tUHlIcGZVUmFXekVGeDhxamlmNGkrSk5CODQxL2VMc015UjNZaHR4MzIzRjA3MWNFc09DV2JDV1A0Wk55UzB1NzdYNUd6WFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg5NzY1CWZpbGU6YXNlcHJpdGUtMS4zLjAuemlwCnJ4NUVzYk9OOWoyODJJb2tibThUNnQ0Rit1bldzb2ltUDNnZ094RVBXV1cyNHpzWlBSNHZSM2MrZU5FaUU1OGNRd0UrYzdjYVp6SEM4MnM3M1VxM0FRPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NFZBZVlkdW9VUytnQktuNVRkRm1ieDYyQjRqdGdxeURhYXRTeXdWcUZNK1EwaHhpOUswbHJUdDBkK2tBOEhneGtJdGMzd3ZSeWZqbXN5dkxnaHF2TWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTA4NTY0CWZpbGU6YXNlcHJpdGUtMS4zLjAuemlwCk4xVEd3QnNjeGFyNm91cnN5RG1TaWRNNW00dTI5Qi9aOGUyUjVRTzFCaHF4dTdWM1RUN1FKV1BqcHJ2K0t2S2swbEtwMjNwSGVzbFVBY1o3anlRaEFnPT0K"
     },
     {
       "id": "audio",
@@ -61,7 +61,7 @@
       "file": "audio-1.6.1.zip",
       "size": 29053,
       "sha256": "26b9023032ee88dcca183db0c22c6cfbbfb9c4d2ec8e0cfcc4bbbf3a6432fe0e",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NGVOcjZEaFczVjJScWF6VHRwYXl3Sm8walRkUlA1cFQ5TEF6QnBkYkYralFlVHNFanpnU0daWVJWTis1d3pZV3VxRlp0aitBRmY2QWdSekEvTHpaandjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg5NzY1CWZpbGU6YXVkaW8tMS42LjEuemlwCmJxd0Y1WVlHZWRQVzd5OGlXME1nb2ZzRSt4djJDd01rNUhpaG1BUlQ2OE0xcTNDdWJiZzVOQm42MUl5VStKSWx6ZGFjendrMytsUEdJSTVVYVlTWENBPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NGJRbTZaVFptUCtVejZ4eDh6RmZWMmpTeDBxRHh3MzlWK0RSSFljZGErTGJtWEp4WjBvNzNFTEtpTW1NSTBHNFdwODU3RnBjTDZkY3BiT3RiUUtiRFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTA4NTY0CWZpbGU6YXVkaW8tMS42LjEuemlwCmU0TnErMEROaEVHUFBjS0FnaEM1ZGRNYm5MYmhlYTVqdEhnd3E3N0F1Mkd0bnlZNWd4UTBoeGZkRXp3bm5ML2czOGZLVnFKTC9weE90dnQwWVZHbkF3PT0K"
     },
     {
       "id": "comic-reader",
@@ -81,7 +81,7 @@
       "file": "comic-reader-2.2.1.zip",
       "size": 47935,
       "sha256": "e2339291121d8d67878986a2a09274f96b155be398d87a3b42f31faacd710cfc",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NGNOS3E3SHJVWHBEQStpWUwrTk1SVlhMaEY5L0lUb0doNG1NWmo0YlJuOThxRjltY21Rd3FqVmpsR1hRWXZKNHdpQUFQSjBrVU9ZdzZXamdacGdnQ2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg5NzY1CWZpbGU6Y29taWMtcmVhZGVyLTIuMi4xLnppcAptTjkwbjRidWo4RmVUUnR5R3FobVZQUkRnK2haVnpKSFVUMFN5UEIrOVNjWHdoUllza2xqMGg1bmtZUTNSVVVPZlJMSGx1ZnJKSjViWHF0a053Z1hCdz09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NGYzYWU4c29wRHpwUWV0dkcwVGF4c2o2SE9PSTlJUHliOHpXOTdXTkllVFlrbVgrdEl6RTRneWQ4WVhwM0lPK1lsRUpJd3hxQklJcGNkTWR3b29PbkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTA4NTY0CWZpbGU6Y29taWMtcmVhZGVyLTIuMi4xLnppcApvUU1XbTFCRU1USjJQNE5jV011WHJJMDdReXZOVitEWjJ1bTRYZlFlWlZxT1dlK3ZnQVpnVGVIMXY5blV0YW9aRUx4eTBSSVJtYWhlRVlzYzUza3hDdz09Cg=="
     },
     {
       "id": "desktop-pet",
@@ -101,7 +101,7 @@
       "file": "desktop-pet-1.0.0.zip",
       "size": 12223,
       "sha256": "6acce5c9630b100368eaaf81166899e0bc56c6a91e6e41664c77fc8f6cae5e2a",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NFRPejQwTjFQTmxXUXhxc0o2YUJXM3hTWWJwb0RuSUFvOWNZbHJCcFVzeHhkVGpKUjJPSFFaSmpBRGh0Q2NRcm5BWjF4VjlCbzZld3RpdGpMa1EzakFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg5NzY2CWZpbGU6ZGVza3RvcC1wZXQtMS4wLjAuemlwCitZVzhkNm9EN0cza0JKZ3FQVDV4L2lDd0g0SXhGVG1pTm9JRHRzaGEwZUFqS0ZTNk1pZEJGVzZoV3NIeDJpU24wL3FqMUM2cDBXZGdpSnM0cUdpRkNRPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NFkrNnIzUnJtdFRDMnlLQVRYUURtRG5yOVUwVXZ0UGxCYm1VYTJTY3NscTJXN3hjbHhsT052MlhWYlZkNDBDY1ZXZG5UV2J6RmFEbDN3bFFlUnlsWVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTA4NTY1CWZpbGU6ZGVza3RvcC1wZXQtMS4wLjAuemlwCkM0dk9lYmxKc0JqSktPU1NYN1ZQTXJxTENkYkFyeWo3V1BzYmRUYytRRG5uSzVuaEQ1TWpxdi9SRVFYZGNXd0xvMXZLbjJSNFNlY0RsRUtEaWpsU0R3PT0K"
     },
     {
       "id": "fanbox",
@@ -121,12 +121,12 @@
       "file": "fanbox-1.6.2.zip",
       "size": 14050,
       "sha256": "301fa6aa3ccb6e039bf2d4b602ba2df951a9659b69ebdf34bb16bf27d2ac70c4",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NFJXMUtUbXF4dUNhTmh4MmViczVNNWN4VThYb2VadDhoUUV3NHJneVAyaVA2UmJJSGF2SFcrKzNXVW9MeG1paHBiU0IxUnBoM21uV0tzamtJQUFHc2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg5NzY2CWZpbGU6ZmFuYm94LTEuNi4yLnppcAo5cDVoZFg5OE1zcXJYZ1VGcVN1cjAydXkwcjdxZXM0TDlNdEZtVmVyN3pRWlpVWVZscHltNkpyTjRtR1hlajU2Q2haUkd3Z2w3NVgvQnFUSlRMR0xCQT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NFdYSDR4eDZqazUwKy84SnRiT1NaMVhnWnZ3R21JOXJ4ZGplbFJFcHBYcE1IWlhxOVN2M2hLSE5GWS9PQS9kNFBVQ3FlMDlNem9kTjhkeStzSjlrcFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTA4NTY1CWZpbGU6ZmFuYm94LTEuNi4yLnppcApMZHJLbi8vK01YTnRPSk9wakxrc01QMlZUUEtjS2V4ek5lcDRiMk5HZG5yM2hjYS9SVWJhL0ozaTYxWmJHbURRa1lPKzhWVmJoWW9OYXAxU2lJMHJCdz09Cg=="
     },
     {
       "id": "html",
       "name": "網頁",
-      "version": "1.6.0",
+      "version": "1.6.1",
       "description": "在 hoard 裡直接看存下來的網頁（HTML、MHTML、SingleFile 的單檔）：快速預覽與詳情頁在隔離的框架裡顯示網頁，網頁的程式照常執行（可在設定關掉），但連不了網、碰不到 hoard；卡片上是網頁第一屏的封面（網頁用 og:image 指定了本機圖片時用那張），「篩選」裡的「網站」，網頁的內文搜尋得到。像 uiverse.io 那種 HTML 小元件置中顯示，側欄的「元件」頁面直接在卡片上畫出、可以互動。複製、拖進來的文字摘錄用閱讀排版顯示（字型、顏色跟 App 一樣），可以換成原版。只讀檔案，不改原檔",
       "minAppVersion": "0.1.0",
       "kind": "app",
@@ -138,10 +138,10 @@
       "author": "hoard",
       "homepage": null,
       "license": "MIT",
-      "file": "html-1.6.0.zip",
-      "size": 45901,
-      "sha256": "035a7e45f8fd4c9aace3ff9bb6423d9fbf0263482ed871cedea62feab0a480b4",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NGMzMFJRdnI3L0JSVmFkR2xLbWhDOU5TNDZaSEc1TWFsaFpCQXJvZUp1Lzc4V2YxRElkaUh1bjdLS1ZVUm9LUFB5cnVlbU0xR2RMeHNmVEZEaVRHMkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg5NzY2CWZpbGU6aHRtbC0xLjYuMC56aXAKSlFhdUNrUFo2OEk2ZG5MUUNTeC9QUitTZTFZclFFZHFpTWhLWldKUnFiRFN1TmhmdEdweTZEVkVmbkFDM3VwamlwdWJTMDJlam4vUkJPWWY1RUR1QUE9PQo="
+      "file": "html-1.6.1.zip",
+      "size": 46050,
+      "sha256": "24f92b46b5a2ba1fc70b0790cd93bef616a1c8b7a76df6375d37d15b1d72dbd7",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NGNTNzQzNytRQWJTaytyMWYzLzQvY3ViRVNBSXB3ZnRmYU5LRzdHU2k2L3VqL1lVMndXNHZJZ01ZOW12a0ZScmxNOC96VkdoOTJMQVMzWnFnN042TWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTA4NTY1CWZpbGU6aHRtbC0xLjYuMS56aXAKa2NvQVEyTGt1ZEh1dk42L0N0RU80bkZhd1paa01HM0ZycFFKSHNiL0RwVVVEazdKaVRNSTM3UjdCUmV5QVZiS3JGNWRWUnBWSm9UR2c4N3BVQ3lBQWc9PQo="
     },
     {
       "id": "patreon",
@@ -161,12 +161,12 @@
       "file": "patreon-1.7.2.zip",
       "size": 15616,
       "sha256": "8bf094ce5ef78b83c5bc46a372fcd347a0a7033d4774354bdc380ba05c72dbd9",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NGRtbmNwdDd6a0FqdW5RbmgxMmtadzVmcmhWTnVQVnc4dGdGcVNoeWh3SGRwTzVHYTRTaW9TbFhkbzhGRG9Dc0xpcWRXKzhzSTlQdStoeUtZWjJES0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg5NzY2CWZpbGU6cGF0cmVvbi0xLjcuMi56aXAKV1pHNTdHMXo0SklSSnlFQnFTYmxDZit2Q3pFTERjVGRKV1FScTZOR1BSclJIZkdnOC85T0tpRkVLRTByckdsejNVWnpLd0owU2Jnc05IYjl3MkMyRGc9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NFNSdHhMdzdrVFB1bFFHemdYa0lZajVkL2xqbXlTVnJxa3RCYUxNT29LNG53Rjh4NTBvaXNCdG01N1lzNEJSaGhrUDlGQ3dtL3BKa3RjSHI2c0wvbVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTA4NTY1CWZpbGU6cGF0cmVvbi0xLjcuMi56aXAKbmlYMGRGNE5neGl4RVdBTEFlR2lKK2lOd00ybmQzU3YzMTRKMHRRdWRBWVR5NmdONlhzZUFiMGV6WXVJNGU5NWdFUUZqc3dJcE5HYXJUVG96YU9BREE9PQo="
     },
     {
       "id": "pdf",
       "name": "PDF",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "description": "在 hoard 裡直接看 PDF（Mozilla 的 pdf.js）：快速預覽與詳情頁在隔離的框架裡顯示，文字可以選取、複製，搜尋文件、目錄、文件裡的連結都能用，放大縮小不會糊，記得每份讀到第幾頁；卡片上是第一頁的封面，PDF 的文字搜尋得到。收進來的 PDF 就是 PDF，要當漫畫讀用右鍵「展開成頁」再選「開啟方式」。不執行 PDF 裡的程式，只讀檔案，不改原檔",
       "minAppVersion": "0.1.0",
       "kind": "app",
@@ -178,10 +178,10 @@
       "author": "hoard",
       "homepage": null,
       "license": "MIT",
-      "file": "pdf-1.1.0.zip",
-      "size": 2452088,
-      "sha256": "40906d7955b583219cd916f94c8ed96ecdb4cae6aacc0b34029d81bc8d3082cd",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NGNpUlA5RnZkN1B6Ui9rME8wNnNKdHRCaFFWbDVaZmNZR3RhcFdlYVExZEM4UlZGRmYyS2RKZHM4aHNHUko2QmE2QmIwczJCUGd5TU5JL3lKelRvcGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg5NzY3CWZpbGU6cGRmLTEuMS4wLnppcApRbFVhRXdVVTNVUlFESGI2Z3laa25MLyt3blFZeGM0NDB5dzVLRVBsRFpRbU5VTzU2RE1sb2hCSU5jTzJuUFJXRUZnajd2MUZBaFhpbnVlZisrYlVBQT09Cg=="
+      "file": "pdf-1.1.1.zip",
+      "size": 2452257,
+      "sha256": "97c376fe041c97e1093f8c23017acd2edbfc4584a2116e1d66ffe19c7afeabc4",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NFdrcFFJMG42TDVUTE5wOVdaMEU3TXg3RUNFdGZ5cFZ2THQxdEd6aFJiWG9sVlBZTjZ5a0hFVWowSzhQR2dGMnA3aVhGdVFTTHZabEcwM1BoR3ZSdlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTA4NTY2CWZpbGU6cGRmLTEuMS4xLnppcAphQVMybjM1dDMvaFNuWkx5Q3V0dkEzZEZjTUNFQ1JybVJCaWRhZCtqRmQwRFNmMFRTOHY4UnZlblNqQ2pEY09QVW5aOUdnK3ZFUi93eUhCWlJLNVBEZz09Cg=="
     },
     {
       "id": "pinterest",
@@ -201,7 +201,7 @@
       "file": "pinterest-1.6.1.zip",
       "size": 28030,
       "sha256": "4685b70c215c16f5f2c8fa79584589f423e3e5125e83508b7619eed37ff49de8",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NGRKQ2R3U0h5Vm5pcGhQeEpZOElQQ2hrc3VRV2Vnd1ljV28vTi9LRXBPS0R3NjBzZ1BhM3BNazdPMWpjMTF5YkVRbFZ6TzJsd1Fjc3QzcVVQMDUxRXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg5NzY3CWZpbGU6cGludGVyZXN0LTEuNi4xLnppcAp3dllLTSt3cG9NdlNUeVVuNDEwVzVNUTNPeEtBZWNMNERicDZ4c3I0QXgvRGxRNlFVbDlQZFNXUTVlZzFaaHEyN0dXaVRYbnNXNnR0T0YvcTQ0dGZBQT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NFlUZGhEWGFQUHV0dk1ESDJCWGYzSnpGSjhlcjczTERlMWlEbDNEWENrblNUY09LMjFicVprS0Rkc2dlZGhYeXdXWXFEQytacC8weTBkMms5MVo4dWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTA4NTY2CWZpbGU6cGludGVyZXN0LTEuNi4xLnppcApyYzhCdzFLWUQ4cXJ6cTEyRG54M2krV3dES2hrcHBQTGVQaU5Ha0J2NWtPWG9PYWdPMTR3Qm40NEs1WklzUkxaaHk4dXBJQTJoem5sY2cvejE2UGVBdz09Cg=="
     },
     {
       "id": "pixiv",
@@ -221,7 +221,7 @@
       "file": "pixiv-1.17.0.zip",
       "size": 36298,
       "sha256": "b27d1e496413cb3ae479a22ea25ea1e44918a1ae25d36400c03de4ccbabc7c4a",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NGFxRjdoOEpkYS8xQUNsQ2dLTzcrZ2V0RjVSQ3Q3aEU1MTd3bjZVRDVUS1VNUjBjY0JaRmZ0NTliRzlERE1EYUljNWJHN3JKWHpMZzNzSUV4aE8vakFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg5NzY4CWZpbGU6cGl4aXYtMS4xNy4wLnppcApVd1FqNElDdGhLVTNaQ3YrMk96TytPR29OMDJzWVNQZGhuemNYRUFCVkxDZVBXd29mZlk2d1Z0TzE1SmZCN0x0Z1FPdFFXYytybUFkNU13TGo4VmVCZz09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NFh6blJXUVJobzNYQjFFQUo5dE5oTzZKNjVEOWdoSjY1Uk1pVzUvMUhTQzdNUjd0KzhXOStYMENES0JsRjRBR0RqMExLY1hvMnpuZFd5R081bmlZMkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTA4NTY2CWZpbGU6cGl4aXYtMS4xNy4wLnppcApVMmtlYzQ5eWU1UFFMaUhoM1N0U0VOMCt6dUlMandnZG83NVovUXk5T3ZBTUlpRkpnc2tvUm5nbGhGK0xRc0wxWHNhSm82RU1qNUpnMFRyUytHVktCUT09Cg=="
     },
     {
       "id": "theme-black",
@@ -241,7 +241,7 @@
       "file": "theme-black-1.0.5.zip",
       "size": 1725,
       "sha256": "c0c819d9ee5e4ab9f8d2e54e4e7d88af2dd1e424191478a59e769a3ea42fc511",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NFVmMmxQQ1g0WGNKN21XbXg2Rkt4MTFnbzFMbUhzSWlYZUNaNXhiVHJBcUJMZ0V2RXpvdGpnUStqbkFKeVdNWjlnK3dpRWFqaURraGZwWXRVTFRyS1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg5NzY4CWZpbGU6dGhlbWUtYmxhY2stMS4wLjUuemlwCnFjVTZaRjZCY3F4VDk2bXg4N0NwSXZiWHloU1VWRnpsc0FWRkNabjZQdFpjQmJ3V0ZhVG4xYXllUFBmdGVLMW9GTmNLcWRxUjhyb3cwMWlBRGhWb0FnPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NFJ0VlJSNThuVjRqSWNmSzY4MVlJZS9zUG01ZGxwVFJmSisrb0dVT1pjSkU2VUIyMHRWQlRmVkNhbG9NbnpuNlZoeG1pQWErWHc0WlZCRTd1VGtnamdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTA4NTY2CWZpbGU6dGhlbWUtYmxhY2stMS4wLjUuemlwCmU5Qi9xZldYQlhaRmJRVUx1cjYycStLYWx0R0czYitPdko4WlZVbkFmSkJma0gwaUIya052OXYrekk3UGpTQjdUaWg4V3hGVjdqeHNETFB4SjR5NUFnPT0K"
     },
     {
       "id": "theme-white",
@@ -261,7 +261,7 @@
       "file": "theme-white-1.0.5.zip",
       "size": 1760,
       "sha256": "1289f2b0cb530228ea154d1e42ceaadb7fd553f26bbca4e2bb53daa1d3bc6078",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NFQxS0ZGaXRwMDNBSTAzZFV5TWs1WmpvN0dhWnVJT3ArM01iV21Md2ZNYzdrcHF2NEloZ3ozci84OUlhaExTcVc3RTRXZ0dLblkvRXZwRnBCeTJyVlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg5NzY4CWZpbGU6dGhlbWUtd2hpdGUtMS4wLjUuemlwCk8xeEJFdWlEM3ZSOHQ1QSs5VjQ5NGhyaFcvQnlqRkhJQ0FmSHNrc0x1alA0WTAwQWY2WmFYY09FYzdhcnRYakU5YllIejJpcXVZc1dhbEFoanFKbURnPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NGQ3RTcrT1R2SjVmaDZCbG4xbXlDRTh2ZWgvdUgxZnVGMXBYTjNXY1N2a1BxYzFlVDNzcEQxdDk3ekNOUXN4S3VLeGpUeisxejkzSndMUUk3emQxSFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTA4NTY3CWZpbGU6dGhlbWUtd2hpdGUtMS4wLjUuemlwCkRVVTU0bThMUFNjVks3SUxiVG1JUm1yR2xSTkw4cllJcFkxZUFIOUVCaTVTN3Rvd29DbjJPbWtwb0pyZUgwWlBWcE5CdkJsVWpnMDZMVlBEd3N1TEN3PT0K"
     },
     {
       "id": "timeline",
@@ -281,12 +281,12 @@
       "file": "timeline-1.3.1.zip",
       "size": 4030,
       "sha256": "b9d8ae255f3079d7d52c17e4a7195361992ba483df90712ebfa2dda250868aa9",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NGExV29rTGM4V21ZdG9QRXJBWDVvZ1U5ZmU0Mnd0a2k1RFFEU3hiSTdFcjBNcS9zdlJ4eURGdnBGL3VvQkJGYmtyNjB4SmY2UTlEdWo3cThGejBsNFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg5NzY5CWZpbGU6dGltZWxpbmUtMS4zLjEuemlwCk9DajhBWFFBODFacllEU2tHMXluZk1tNTQvZ2VIZUtnS3NOWGVnbEZPT0NteDdXNDJ4bU4xNFZZbDg0SlkrQnNnRTJMcDFXZnh0UW9CdU84ZEx4RkN3PT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NFpmREJsR05rdWFXY3RYeU43NS9SQ3cvWE1jcm1zd0t0SnhTcVpNdW83b2RMaHNPUEVaOFhLKzR1TWV0UzV5R244ZlJIMzlxNTEwNktmSUgyMkV2RGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTA4NTY3CWZpbGU6dGltZWxpbmUtMS4zLjEuemlwCkE2Q29YWjdPazNBcUMxRXRwRXFRaDFkbndWVXFBQXQzdm1zdVBNWnovSW9GZ1RGSWJ4REJ2ZzkrU1Q1Wk1XLytDSDJBdHJ3REFYWjE0cDkwQURiakJBPT0K"
     },
     {
       "id": "twitter",
       "name": "X.com",
-      "version": "1.27.0",
+      "version": "1.27.1",
       "description": "抓取 X.com 貼文的圖片與影片；拖貼文裡的圖片到左邊滑出的投放區只收那一張（影片由 App 端 yt-dlp 下載，帶登入 cookie 支援敏感／R18 內容；回覆為 DOM 擷取，想要更多請先捲動）；可以從 X 資料封存的 like.js 匯入以前的按讚（擴充彈出視窗）",
       "minAppVersion": "0.1.0",
       "kind": "source",
@@ -298,10 +298,10 @@
       "author": "hoard",
       "homepage": null,
       "license": "MIT",
-      "file": "twitter-1.27.0.zip",
-      "size": 27333,
-      "sha256": "361473310a161a67516a98939c758ec27f4859044bffb0e7b6e7eeb094f7ef00",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NGIxMUtnSUhsK2F6QmlkeXdkT1RvN0VEcUlmb2RsRHVkd3FIcW8vSFJNbThJTzNQdXNWaUZwa01Rb0s2SmJrWWRGNWRXcWxBTzc0M042dnNRMHFqTFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg5NzY5CWZpbGU6dHdpdHRlci0xLjI3LjAuemlwCndFMDNvSXVxVy9lVkRtVVR2TU43UTBieU1oNUJRSkowUUkxa3VtaXZQMWtUY3kyV0RwOTRHVUtVSVZuZWdmLytJRGVNeHpuN0NoaTFuQnhsQk5Na0F3PT0K"
+      "file": "twitter-1.27.1.zip",
+      "size": 29799,
+      "sha256": "fe1195cee269822f23022f13cb9419b5ee78ca0e9561c1586acf6e4ad65b0c06",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROWU5NkNEQmZ3NGQ5cVltMDJZeEJnU0xUandVYTYyTloxdU16cnVUWXNMR1BzNE1YU2s2d2VVOU9vNndhTHZmTWh6OXE3SWFUcFE5VkRxNjQzekZmS1pUUU03Zk9vSkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTA4NTY3CWZpbGU6dHdpdHRlci0xLjI3LjEuemlwCkRjVEpsY1VlMDBaUDI2WVVOaHVTVkQwRU85SXhPek8reloxb2ljRzR6WU9pWU03YVNIcHRSUUJUSmRkTFh5U3BNWENSV2VDdklTMTIzd0twbUx4YUJRPT0K"
     }
   ]
 }
